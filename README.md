@@ -7,7 +7,7 @@
 1. Installing Redis
 ``` bash
 # On Windows
-download : https://github.com/dmajkic/redis/downloads
+[download](https://github.com/dmajkic/redis/downloads)
 double-clicking on the redis-server
 
 # On Mac
