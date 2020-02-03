@@ -28,11 +28,11 @@ npm run dev
 
 ## DOSCG Service
 
-### finding XYZ
+### finding XYZ ( หาค่า X, Y และ Z จากสมการ X, Y, 5, 9, 15, 23, Z )
 - GET /1
 
-### finding BC
+### finding BC ( หาค่า B และ C  จากสมการ A = 21, A + B = 23, A + C = -21 )
 - GET /2
 
-### finding distance
+### finding distance ( ค้นหาวิธีที่ดีที่สุดในการไป Central World จาก SCG Bangsue )
 - GET /3
