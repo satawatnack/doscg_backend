@@ -5,9 +5,9 @@
 ## Build Setup
 
 1. Installing Redis
-# On Windows
-[download](https://github.com/dmajkic/redis/downloads)]
 ``` bash
+# On Windows
+download at <https://github.com/dmajkic/redis/downloads>
 # On Mac
 brew install redis
 ```
