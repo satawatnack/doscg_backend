@@ -5,14 +5,11 @@
 ## Build Setup
 
 1. Installing Redis
-``` bash
 # On Windows
-[download](https://github.com/dmajkic/redis/downloads)
-double-clicking on the redis-server
-
+[download](https://github.com/dmajkic/redis/downloads)]
+``` bash
 # On Mac
 brew install redis
-redis-server
 ```
 2. Install dependencies
 ``` bash
