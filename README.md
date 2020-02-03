@@ -24,3 +24,15 @@ redis-server
 ``` bash
 npm run dev
 ```
+---
+
+## DOSCG Service
+
+### finding XYZ
+- GET /1
+
+### finding BC
+- GET /2
+
+### finding distance
+- GET /3
