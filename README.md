@@ -5,8 +5,8 @@
 ## Build Setup
 
 1. Installing Redis
-###### On Windows
-##### download at <https://github.com/dmajkic/redis/downloads>
+######   On Windows
+#####   download at <https://github.com/dmajkic/redis/downloads>
 ``` bash
 # On Mac
 brew install redis
@@ -16,8 +16,8 @@ brew install redis
 npm install
 ```
 3. Start the Redis server
-###### On Windows
-##### double-clicking on the redis-server
+######   On Windows
+#####   double-clicking on the redis-server
 ``` bash
 # On Mac
 redis-server
