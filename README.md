@@ -6,7 +6,7 @@
 
 1. Installing Redis
 #### On Windows
-download at <https://github.com/dmajkic/redis/downloads>
+#### download at <https://github.com/dmajkic/redis/downloads>
 ``` bash
 # On Mac
 brew install redis
@@ -15,14 +15,14 @@ brew install redis
 ``` bash
 npm install
 ```
-2. Start the Redis server
+3. Start the Redis server
 #### On Windows
-double-clicking on the redis-server
+#### double-clicking on the redis-server
 ``` bash
 # On Mac
 redis-server
 ```
-3. serve with hot reload at localhost:3000
+4. serve with hot reload at localhost:3000
 ``` bash
 npm run dev
 ```
