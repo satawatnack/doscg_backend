@@ -29,10 +29,10 @@ npm run dev
 ## DOSCG Service
 
 ##### finding XYZ ( หาค่า X, Y และ Z จากสมการ X, Y, 5, 9, 15, 23, Z )
-- GET /1
+- GET localhost:3000/1
 
 ##### finding BC ( หาค่า B และ C  จากสมการ A = 21, A + B = 23, A + C = -21 )
-- GET /2
+- GET localhost:3000/2
 
 ##### finding distance ( ค้นหาวิธีที่ดีที่สุดในการไป Central World จาก SCG Bangsue )
-- GET /3
+- GET localhost:3000/3
