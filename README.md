@@ -30,6 +30,15 @@ npm run dev
 
 ##### finding XYZ ( หาค่า X, Y และ Z จากสมการ X, Y, 5, 9, 15, 23, Z )
 - GET localhost:3000/1
+- return ex.
+```json
+{
+    "x": 3,
+    "y": 3,
+    "z": 33
+}
+```
+
 
 ##### finding BC ( หาค่า B และ C  จากสมการ A = 21, A + B = 23, A + C = -21 )
 - GET localhost:3000/2
