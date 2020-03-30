@@ -19,7 +19,7 @@ exports.findingBC = async function (a) {
 }
 
 exports.findingDistance = async function () {
-    const API_KEY = 'AIzaSyAJbVsRnImDXSobWPGltsHOO757KY-_pNI'
+    const API_KEY = 'XXXXXXXXX'
     const url = 'https://maps.googleapis.com/maps/api/directions/json?origin=SCG+Bangsue&destination=Central+World&language=th&region=th&key=' + API_KEY
 
     try {
